@@ -1,0 +1,3 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-ietf-schc-compress-payload.md lorenzo.corneo@ericsson.com edgar.ramos@ericsson.com jaime.jimenez@ericsson.com
