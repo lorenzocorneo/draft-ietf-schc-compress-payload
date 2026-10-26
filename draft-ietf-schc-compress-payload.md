@@ -7,11 +7,11 @@ docname: draft-ietf-schc-compress-payload-latest
 
 category: std
 stream: IETF
-area: Applications
-workgroup: SCHC Working Group
+area: "Internet"
+workgroup: "Static Context Header Compression"
 
 venue:
-  mail: schc@ietf.org
+  mail: "schc@ietf.org"
 
 author:
 - name: Lorenzo Corneo
