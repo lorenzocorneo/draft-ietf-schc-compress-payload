@@ -2,7 +2,7 @@
 
 
 
-SCHC Working Group                                             L. Corneo
+Static Context Header Compression                              L. Corneo
 Internet-Draft                                                  E. Ramos
 Intended status: Standards Track                              J. Jimenez
 Expires: 29 April 2027                                          Ericsson
